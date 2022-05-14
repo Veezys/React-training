@@ -1,5 +1,4 @@
 
-
 .list-group-item button {
     width: 35px;
     height: 35px;
@@ -40,4 +39,15 @@
   
 .list-group-item.increase .btn-star {
     color: #aeaeae;
+}
+
+.list-group-item {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #000;
+}
+
+.list-item {
+    border: none;
 }
