@@ -6,6 +6,10 @@
     height: 30px;
     border: none;
     margin-right: 5px;
+    
+}
+.btn:hover {
+    cursor: pointer;
 }
 
 .btn-outline-light {
